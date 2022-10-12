@@ -1,0 +1,28 @@
+.footer {
+    position: relative;
+    top: 30vw;
+}
+
+.m-footer {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 3.2vw 1.33333vw;
+}
+
+.m-footer p {
+    color: #999;
+    font-size: 3.2vw;
+    line-height: 6.4vw;
+}
+
+.see-you-app {
+    color: #999;
+    text-align: center;
+    font-size: 3.73333vw;
+    padding: 5.33333vw 0;
+}
+
+.see-you-app img {
+    width: 40%;
+    margin-bottom: 2.66667vw;
+}

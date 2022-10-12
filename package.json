@@ -1,0 +1,36 @@
+{
+  "name": "bili",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.6",
+    "@types/react-lazyload": "^3.2.0",
+    "antd-mobile": "^5.24.0",
+    "antd-mobile-icons": "^0.3.0",
+    "axios": "^1.1.2",
+    "classnames": "^2.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-lazyload": "^3.2.0",
+    "react-redux": "^8.0.4",
+    "react-router-dom": "^6.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.3",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@types/styled-components": "^5.1.26",
+    "@vitejs/plugin-react": "^2.1.0",
+    "prettier": "^2.7.1",
+    "sass": "^1.55.0",
+    "styled-components": "^5.3.6",
+    "typescript": "^4.6.4",
+    "vite": "^3.1.0"
+  }
+}
